@@ -17,7 +17,7 @@
 
 
 ---
-#### <img src="https://cdn-icons-png.flaticon.com/512/1835/1835211.png" alt="html" title="html" width="16" height="16"/>&nbsp;&nbsp; Стек :
+<!-- #### <img src="https://cdn-icons-png.flaticon.com/512/1835/1835211.png" alt="html" title="html" width="16" height="16"/>&nbsp;&nbsp; Стек :
 
 
      
@@ -28,5 +28,15 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="js" width="40" height="40" />&nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />&nbsp;&nbsp;      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js"  width="40" height="40" />&nbsp;&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"  width="40" height="40" />&nbsp;&nbsp;       
-</div>
+</div> -->
 
+
+Стек технологий:
+
+<img src="https://img.shields.io/badge/html-gray?style=for-the-badge&logo=HTML5&logoColor=#E34F26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3&logoColor=#1572B6" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-gray?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=Node.js&logoColor=#339933" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=MySQL&logoColor=#4479A1" />&nbsp;&nbsp;
