@@ -17,7 +17,7 @@
 
 
 ---
-#### 🛠️ Стек :
+#### 👨‍💻 Стек :
      
 <div class="tools">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" title="html" width="40" height="40"/>&nbsp;&nbsp; 
