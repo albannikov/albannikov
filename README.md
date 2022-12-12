@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Языки и инструменты :
      
 <div class="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js"  width="40" height="40" />&nbsp;&nbsp;
