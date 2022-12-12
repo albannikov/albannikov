@@ -6,7 +6,7 @@
 
 
 
-
+<img src="https://sun1-15.userapi.com/o9LYgqI4c1rwPrsAwBNMu2NVEkN5nQJgRExMfg/GKccK_XB9o4.png">
 <div id="badges" class="social-media">
   <a href="https://vk.com/albannikov" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte" title="VKontakte" />    
