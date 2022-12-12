@@ -17,7 +17,9 @@
 
 
 ---
-#### 👨‍💻 Стек :
+#### <img src="https://cdn-icons-png.flaticon.com/512/1835/1835211.png" alt="html" title="html" width="16" height="16"/>&nbsp;&nbsp; Стек :
+
+
      
 <div class="tools">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" title="html" width="40" height="40"/>&nbsp;&nbsp; 
