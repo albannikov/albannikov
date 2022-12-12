@@ -6,12 +6,13 @@
 
 
 
+
 <div id="badges" class="social-media">
-  <a href="https://vk.com/depri_me" target="_blank">
-    <img src="https://img.shields.io/badge/vk.com-profile-blue?style=for-the-badge&logo=vk" alt="VKontakte" title="VKontakte" />
+  <a href="https://vk.com/albannikov" target="_blank">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte" title="VKontakte" />    
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/Depri_me" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-message me-blue?style=for-the-badge&logo=telegram" alt="Telegram" title="Telegram" />
+  <a href="https://t.me/al_bannikov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram" />
   </a>  
 </div>
 
