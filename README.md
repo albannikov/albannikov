@@ -21,22 +21,16 @@
 ### 🛠️ Languages and Tools :
      
 <div class="tools">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte.js" title="Svelte.js"  width="40" height="40" />&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js"  width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" title="React.js"  width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" title="Laravel"  width="40" height="40" />&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node js" title="Node js"  width="40" height="40" />&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"  width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" title="PostgreSql"  width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis"  title="Redis" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" 
 </div>
 
 ---
 
 ### 📊 Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deprime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albannikov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
